@@ -4,3 +4,4 @@ This is the repository for the course CS345: Design and Analysis of Algorithms a
 ## Contents of the Repository
 1. Assignment 1([Assignment 1](<Assignment 1>)) : Marks awarded = 100/100
 2. Assignment 2([Assignment 2](<Assignment 2>)) : Marks awarded = 100/100
+3. Assignment 3([Assignment 3](<Assignment 3>)) : Marks awarded = 100/100
